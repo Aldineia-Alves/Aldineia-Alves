@@ -1,10 +1,10 @@
-# 👩‍💻 ALDINÉIA ALVES  
+# ALDINÉIA ALVES  
 
 ### Engenheira de Software em Formação | Desenvolvedora Web Full Stack  
 
 ---
 
-## 💫 Sobre Mim  
+##  Sobre Mim  
 
 **Engenheira de Software em formação** e **Desenvolvedora Web Full Stack**, inovação e desafios que unem lógica, criatividade e propósito.  
 Tenho base sólida em **lógica de programação, arquitetura de sistemas e banco de dados**, e atualmente estou no **5º semestre de Engenharia de Software pela Anhanguera**.  
@@ -15,7 +15,7 @@ Acredito que a tecnologia tem o poder de transformar ideias em soluções reais 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <p>
 <img 
@@ -127,14 +127,14 @@ Acredito que a tecnologia tem o poder de transformar ideias em soluções reais 
 
 <br>
 
-## 🌟 GitHub Stats  
+##  GitHub Stats  
 
 ![Aldineia GitHub stats](https://github-readme-stats.vercel.app/api?username=Aldineia-Alves&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldineia-Alves&layout=compact&theme=radical)  
 
 ---
-## 💬 Contato  
-💼 **LinkedIn:** [linkedin.com/in/aldineia-alves-engenheira-software](https://www.linkedin.com/in/aldineia-alves-engenheira-software)  
+##  Contato  
+ **LinkedIn:** [linkedin.com/in/aldineia-alves-engenheira-software](https://www.linkedin.com/in/aldineia-alves-engenheira-software)  
 ---
 
 ⭐ **Se algum projeto te inspirar, deixe uma estrela!**  
